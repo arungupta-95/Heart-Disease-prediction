@@ -1,9 +1,15 @@
-# Heart Disease Prediction
+# ❤️ Heart Disease Prediction
 
-## Project Description
-This is a Machine Learning project that predicts whether a person is likely to have heart disease based on medical parameters.
+## 📌 Project Overview
+This is a Machine Learning project that predicts whether a patient is likely to have heart disease based on medical parameters.
 
-## Technologies Used
+## 🚀 Features
+- Heart Disease Prediction
+- Machine Learning Model
+- Streamlit Web App
+- User-friendly Interface
+
+## 🛠 Technologies Used
 - Python
 - Pandas
 - NumPy
@@ -11,10 +17,24 @@ This is a Machine Learning project that predicts whether a person is likely to h
 - Streamlit
 - Jupyter Notebook
 
-## Files
-- app.py
-- 01_Heart_deseas.ipynb
-- KNN_heart.pkl
-- heart_scaler.pkl
-- heart_columns.pkl
-- heart.csv
+## 📂 Project Structure
+
+Heart-Disease-Prediction/
+│── app.py
+│── heart.csv
+│── KNN_heart.pkl
+│── heart_scaler.pkl
+│── heart_columns.pkl
+│── requirements.txt
+│── README.md
+
+## ▶️ How to Run
+
+pip install -r requirements.txt
+streamlit run app.p
+
+## 📊 Dataset
+Heart Disease Dataset
+
+## 👨‍💻 Author
+Arun Gupta
