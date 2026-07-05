@@ -31,13 +31,13 @@ Heart-Disease-Prediction/
 ##  Project Screenshots
 
 ### 🏠 Home Page
-(Home.png)
+![Home](Home.png)
 
-### 📊 Prediction Page
-(input.png)
+### 📥 Input Page
+![Input](input.png)
 
-### ✅ Result Page
-(output.png)
+### 📊 Prediction Result
+![Result](output.png)
 
 ## ▶️ How to Run
 
