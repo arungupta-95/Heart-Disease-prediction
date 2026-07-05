@@ -28,13 +28,24 @@ Heart-Disease-Prediction/
 │── requirements.txt
 │── README.md
 
+##  Project Screenshots
+
+### 🏠 Home Page
+(Home.png)
+
+### 📊 Prediction Page
+(input.png)
+
+### ✅ Result Page
+(output.png)
+
 ## ▶️ How to Run
 
 pip install -r requirements.txt
 streamlit run app.p
 
 ## 📊 Dataset
-Heart Disease Dataset
+heart.csv
 
 ## 👨‍💻 Author
 Arun Gupta
