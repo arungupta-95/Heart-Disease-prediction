@@ -49,3 +49,8 @@ heart.csv
 
 ## 👨‍💻 Author
 Arun Gupta
+
+## 🚀 Live Demo
+
+**🔗 Click here to use the application**
+https://heart-disease-prediction-6ncwnuykcml8vcgcjpg7dm.streamlit.app
