@@ -1,9 +1,5 @@
 streamlit
-plotly
 pandas
-seaborn
-matplotlib.pyplot
 numpy
-pandas
 scikit-learn
-prophet
+joblib
